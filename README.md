@@ -22,3 +22,13 @@ To run the server:
 mvn clean install
 
 mvn spring-boot:run
+
+Submission Guidelines
+
+Please submit your solution by sending a zip file to your Rakuten contact.
+
+The zip file should be named {yourname}.zip, and should itself contain the full-stack-recruitment-test project folder with your submission.
+
+The zip file should not include the node_modules and target folder.
+
+Please let your Rakuten contact know when you've uploaded your solution.
