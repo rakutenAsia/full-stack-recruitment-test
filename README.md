@@ -1,7 +1,7 @@
 # full-stack-recruitment-test
 Basic project structure for full stack web application
 
-Client implementation
+Client implementation:
 
 We'd like you to use React. On top of that, use whatever front-end libraries you feel comfortable with.
 
@@ -11,7 +11,7 @@ npm install
 
 npm start - start the client development build at http://localhost:3000
 
-Server implementation
+Server implementation:
 
 We'd like you to use Spring Boot for server implementation.
 
@@ -23,7 +23,7 @@ mvn clean install
 
 mvn spring-boot:run
 
-Submission Guidelines
+Submission Guidelines:
 
 Please submit your solution by sending a zip file to your Rakuten contact.
 
