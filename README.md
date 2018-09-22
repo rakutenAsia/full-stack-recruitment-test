@@ -14,9 +14,11 @@ npm start - start the client development build at http://localhost:3000
 Server implementation
 
 We'd like you to use Spring Boot for server implementation.
+
 We've set you up with a basic spring boot application structure. 
 
 To run the server:
 
 mvn clean install
+
 mvn spring-boot:run
