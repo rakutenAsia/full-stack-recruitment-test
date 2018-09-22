@@ -2,6 +2,7 @@
 Basic project structure for full stack web application
 
 Client implementation
+
 We'd like you to use React. On top of that, use whatever front-end libraries you feel comfortable with.
 
 We've set you up with a build on create-react-app. To run the client:
